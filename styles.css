@@ -1,0 +1,48 @@
+.hello{
+    text-align: center;
+}
+.one{
+   background-color: yellow;
+    
+}
+.two{
+    align-self: center;
+    b
+}
+.three{
+    text-align: center;
+    font-size: x-large;
+
+}
+.op{
+    text-align: center;
+    font-size: x-large;
+    
+}
+.re{
+    text-align: center;
+    font-size: x-large;
+
+}
+.ui{
+    text-align: center;
+    font-size: x-large;
+}
+.li{
+    text-align: center;
+    font-size: x-large;
+
+}
+
+.ty{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.ty img{
+    max-width: 100%;
+    max-height: 100%;
+}
+.gg{
+    size: 200cm;
+}
